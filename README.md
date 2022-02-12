@@ -1,5 +1,11 @@
-### Hi there 👋
+# Hallo semua!
 
+Perkenalkan nama saya **R Hikmah Permatasari**.\
+Saya seorang mahasiswa semester 6 di **Institut Teknologi PLN** dengan jurusan **Teknik Informatika**.\
+Saya memiliki gelar MOS dari [Sertifikasi Microsoft Office Word 2016](https://www.certiport.com/portal/pages/credentialverification.aspx).\
+Saya juga belajar HTML dan CSS di [Progate](https://progate.com/course_certificate/766ab737qxxlhs) .\
+Dan belum lama ini saya menyelesaikan pelajaran saya di [Dicoding](https://www.dicoding.com/certificates/1OP8L8NQVZQK).\
+Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/rastini-hikmah-permatasari-7a4648201/) ku ya
 <!--
 **Hikmah15/hikmah15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
